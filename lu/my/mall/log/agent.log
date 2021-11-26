@@ -1,0 +1,2 @@
+2021-05-22 16:19:20,379   INFO --- [                              http-nio-8080-exec-4]  lu.my.mall.controller.mall.ShoppingCartController                               (line:   115)  :  PRODUCT_RATING_PREFIX:132693|10742|1|1621671560
+2021-05-22 16:19:38,225   INFO --- [                              http-nio-8080-exec-7]  lu.my.mall.controller.mall.ShoppingCartController                               (line:   115)  :  PRODUCT_RATING_PREFIX:132693|10700|1|1621671578
